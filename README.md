@@ -5,8 +5,6 @@
 
 # 📊 ESP32 소스 코드 분석
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/3bf902c4-03b0-4218-9247-b0c8d315939b/Line_1_(1).png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/3bf902c4-03b0-4218-9247-b0c8d315939b/Line_1_(1).png)
-
 ESP32 코드의 동작은 characteristic 값을 확인하여 스위치 동작을 수행하는 것입니다. 
 
 - setup()
